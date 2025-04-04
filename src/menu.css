@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+#menu-content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2rem;
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 4rem;
+}
+
+ul {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+ul div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+li {
+    font-weight: bold;
+    font-style: italic;
+    margin-top: 2rem;
+}
+li p {
+    white-space: pre;
+}
