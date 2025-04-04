@@ -6,5 +6,4 @@ h2.textContent = "Food is what we do";
 
 about_content.appendChild(h2);
 
-
 export {about_content};

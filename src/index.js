@@ -3,6 +3,8 @@ import {home_content} from "./home.js";
 import {menu_content} from "./menu.js";
 import {about_content} from "./about.js";
 
+
+
 const content = document.querySelector("#content");
 content.appendChild(home_content);
 
